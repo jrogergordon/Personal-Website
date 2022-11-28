@@ -8601,7 +8601,8 @@ input, select, textarea {
 			#wrapper.divided > .invert:first-child {
 				box-shadow: none !important;
 			}
-			
+
 .name-color {
 	color: rgb(153, 255, 0);
+	display: inline;
 }
