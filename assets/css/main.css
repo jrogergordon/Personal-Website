@@ -8606,3 +8606,10 @@ input, select, textarea {
 	color: rgb(153, 255, 0);
 	display: inline;
 }
+
+.personal-photo {
+	height: 20%;
+	width: 20%;
+	position: relative;
+	top: 20%;
+}
