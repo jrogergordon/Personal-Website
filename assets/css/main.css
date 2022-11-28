@@ -8613,3 +8613,7 @@ input, select, textarea {
 	position: relative;
 	top: 20%;
 }
+
+.major {
+	display: inline;
+}
