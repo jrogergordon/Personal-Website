@@ -8603,13 +8603,13 @@ input, select, textarea {
 			}
 
 .name-color {
-	color: rgb(153, 255, 0);
+	color: rgb(29, 97, 41);
 	display: inline;
 }
 
 .personal-photo {
-	height: 20%;
-	width: 20%;
+	height: 50px;
+	width: 100px;
 	position: relative;
 	top: 20%;
 }
