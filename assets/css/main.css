@@ -8617,3 +8617,8 @@ input, select, textarea {
 .major {
 	display: inline;
 }
+
+.jacob-icons {
+	width: 10%;
+	height: 10%;
+}
