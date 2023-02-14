@@ -8619,5 +8619,6 @@ input, select, textarea {
 }
 
 .jacob-icons {
-	font: 20px;
+	width: 100; 
+	height: 100;
 }
