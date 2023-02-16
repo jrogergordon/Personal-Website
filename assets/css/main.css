@@ -8635,14 +8635,14 @@ input, select, textarea {
 	display: flex;
 	flex-direction: row;
 	justify-content:left;
-	left: 5%;
+	padding-left: 5%;
 }
 
 .header-sub2 {
 	display: flex;
 	flex-direction: row;
 	justify-content:right;
-	left: 5%;
+	padding-right: 5%;
 }
 
 .resume-button {
@@ -8662,12 +8662,13 @@ input, select, textarea {
 }
 
 .resume-button:active {
-	background-color: #161616;
+	background-color: #474747;
 	box-shadow: 0 5px #000000;
 	transform: translateY(4px);
 }
 
 .spacer {
 	width: 20px;
-	padding-left: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
 }
