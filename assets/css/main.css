@@ -8622,7 +8622,8 @@ input, select, textarea {
 	display: flex;
 	flex-direction: row;
     justify-content: space-between;
-	height: 500px;
+	height: 40px;
+	position: fixed;
 }
 
 .header-sub {
