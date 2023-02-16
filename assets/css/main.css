@@ -8623,7 +8623,6 @@ input, select, textarea {
 	flex-direction: row;
     justify-content: space-between;
 	height: 40px;
-	width: 100%;
 	background-color: white;
 }
 
