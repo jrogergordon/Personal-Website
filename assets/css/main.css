@@ -8624,7 +8624,6 @@ input, select, textarea {
     justify-content: space-between;
 	height: 50px;
 	width: 100%;
-	background-color: wheat;
 	padding-top: 10px;
 	position: fixed;
 	z-index: 999;
