@@ -8623,6 +8623,7 @@ input, select, textarea {
 	flex-direction: row;
     justify-content: space-between;
 	position: fixed;
+	width: 100%;
 }
 
 .header-sub {
