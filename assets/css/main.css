@@ -8625,8 +8625,9 @@ input, select, textarea {
 	height: 50px;
 	width: 100%;
 	background-color: wheat;
-	top: 2%;
+	padding-top: 10px;
 	position: fixed;
+	z-index: 999;
 }
 
 .header-sub {
