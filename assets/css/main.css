@@ -8624,6 +8624,7 @@ input, select, textarea {
     justify-content: space-between;
 	position: fixed;
 	width: 100%;
+	height: 5%;
 }
 
 .header-sub {
