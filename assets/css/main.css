@@ -8627,6 +8627,7 @@ input, select, textarea {
 	padding-top: 10px;
 	position: fixed;
 	z-index: 999;
+	background-color: white;
 }
 
 .header-sub {
@@ -8645,7 +8646,7 @@ input, select, textarea {
   background-color: #80827b44; /* Green */
   border: none;
   color: white;
-  padding: 15px 32px;
+  padding: 10px 25px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
