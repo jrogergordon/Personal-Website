@@ -8640,3 +8640,18 @@ input, select, textarea {
 	flex-direction: row;
 	justify-content:right
 }
+
+.resume-button {
+  background-color: #80827b44; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.resume-button:active {
+	box-shadow: 2px 2px 5px #2d2d2c;
+}
