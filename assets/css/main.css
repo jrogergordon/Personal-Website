@@ -8635,18 +8635,18 @@ input, select, textarea {
 	display: flex;
 	flex-direction: row;
 	justify-content:left;
-	padding-left: 5%;
+	left: 5%;
 }
 
 .header-sub2 {
 	display: flex;
 	flex-direction: row;
 	justify-content:right;
-	padding-right: 5%;
+	left: 5%;
 }
 
 .resume-button {
-  background-color: #80827b44; /* Green */
+  background-color: #00000044; /* Green */
   border: none;
   color: white;
   padding: 8px 10px;
