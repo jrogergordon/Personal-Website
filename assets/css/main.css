@@ -8646,10 +8646,10 @@ input, select, textarea {
 }
 
 .resume-button {
-  background-color: #00000044; /* Green */
+  background-color: #000000; /* Green */
   border: none;
   color: white;
-  padding: 8px 10px;
+  padding: 6px 15px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
