@@ -8622,5 +8622,4 @@ input, select, textarea {
 	display: flex;
 	flex-direction: row;
     justify-content: space-between;
-	opacity: 0;
 }
