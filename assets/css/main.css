@@ -8674,5 +8674,5 @@ input, select, textarea {
 }
 
 #email-spacer {
-	padding-top: 10%;
+	padding-top: -10%;
 }
